@@ -1,4 +1,4 @@
-# Cross-species-single-cell-transcriptomic-analysis
+# Code for cross-species single-cell transcriptomic analyses
 
 code.zip contains 5 main scripts for cross-species analyses, including:
 
