@@ -1,6 +1,6 @@
 # Code for cross-species single-cell transcriptomic analyses
 
-code.zip contains 5 main scripts for cross-species analyses, including:
+code.zip contains 5 scripts for cross-species analyses, including:
 
 QC.R     #Quality control for all samples；
 
